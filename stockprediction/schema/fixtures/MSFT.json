@@ -1,0 +1,1 @@
+[{"model": "stockprediction.schema.Stocks", "pk": 1, "fields": {"stock_id": "MSFT", "company": "MICROSOFT", "ticker": "MSFT", "industry": "Info Tech", "sector": "Software"}}]
